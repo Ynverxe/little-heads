@@ -1,0 +1,6 @@
+version: ${project.version}
+name: LittleHeads
+main: com.github.ynverxe.littleheads.LittleHeadsPlugin
+api-version: 1.17
+depend:
+  - ProtocolLib
